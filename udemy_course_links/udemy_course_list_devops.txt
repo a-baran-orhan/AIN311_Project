@@ -1,0 +1,15 @@
+https://www.udemy.com/course/the-devops-essentials/
+https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/
+https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker/
+https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/
+https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform/
+https://www.udemy.com/course/decodingdevops/
+https://www.udemy.com/course/devops-training/
+https://www.udemy.com/course/learn-devops-continuously-deliver-better-software/
+https://www.udemy.com/course/devops-fundamentals-for-beginners/
+https://www.udemy.com/course/devops-docker-complete-guide-hands-on-with-practical/
+https://www.udemy.com/course/devopsprojects/
+https://www.udemy.com/course/devops-fundamentals/
+https://www.udemy.com/course/devops-masterclass/
+https://www.udemy.com/course/modern-devops/
+https://www.udemy.com/course/devopscrash/

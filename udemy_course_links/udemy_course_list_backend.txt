@@ -1,0 +1,15 @@
+https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/
+https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/
+https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/
+https://www.udemy.com/course/pro-javascript-backend-developer/
+https://www.udemy.com/course/nodejs-api-masterclass/
+https://www.udemy.com/course/python-on-the-back-end-for-beginners-http-server/
+https://www.udemy.com/course/complete-back-end-php-crouse-from-scractach-with-projects/
+https://www.udemy.com/course/complete-backend-development-python-django-and-mongodb/
+https://www.udemy.com/course/node-postgresql/
+https://www.udemy.com/course/software-developer-masterclass/
+https://www.udemy.com/course/backend-web-development-python-djangodatabases-git-api/
+https://www.udemy.com/course/backend-api-testing-with-python/
+https://www.udemy.com/course/node-postgresql/
+https://www.udemy.com/course/complete-back-end-development-with-nodejs-projects/
+https://www.udemy.com/course/back-end-development-with-php7-mysql/
