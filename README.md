@@ -23,4 +23,5 @@ Folders and usage:
 - AIN311_Project/word2vec_model/ word2vec model for skills and courses. Skills are not used, but the course model is used in the Recommender and includes important parts affecting the whole system.
 
 Adem Baran Orhan
+
 Erdem Korhan Erdem
