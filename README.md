@@ -21,6 +21,13 @@ Folders and usage:
 - AIN311_Project/udemy_course_outcomes/ after using the course links, scraped the outcomes of the provided courses.
 
 - AIN311_Project/word2vec_model/ word2vec model for skills and courses. Skills are not used, but the course model is used in the Recommender and includes important parts affecting the whole system.
+----------------
+Result:
+
+![courses](https://user-images.githubusercontent.com/78223231/210282076-bc738fe3-8d01-4aa3-bb66-d1cf4aa2bf8d.png)
+
+
+
 
 Adem Baran Orhan
 
