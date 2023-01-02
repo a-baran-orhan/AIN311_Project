@@ -23,6 +23,7 @@ Folders and usage:
 - AIN311_Project/word2vec_model/ word2vec model for skills and courses. Skills are not used, but the course model is used in the Recommender and includes important parts affecting the whole system.
 ----------------
 Result:
+If you want to check course links and detailed version of image, go to [AIN311_Project/Recommender/](https://github.com/a-baran-orhan/AIN311_Project/blob/main/Recommender/Recommender.ipynb)
 
 ![courses](https://user-images.githubusercontent.com/78223231/210282076-bc738fe3-8d01-4aa3-bb66-d1cf4aa2bf8d.png)
 
