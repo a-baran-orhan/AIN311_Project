@@ -1,4 +1,4 @@
-# AIN311_Project
+# This is the way: a Unique Course Recommendation Approach
 
 Folders and usage:
 
