@@ -1,4 +1,19 @@
-# This is the way: a Unique Course Recommendation Approach
+# This is the way: A unique Course Recommendation Approach
+
+## Medium stories:
+
+https://medium.com/ain311-fall-2022-projects/week-1-this-is-the-way-eb18a5a7018e
+
+https://medium.com/ain311-fall-2022-projects/week-2-this-is-the-way-3b3690992f27
+
+https://medium.com/ain311-fall-2022-projects/week-3-this-is-the-way-71bce1619138
+
+https://medium.com/ain311-fall-2022-projects/week-4-this-is-the-way-47801a7bc015
+
+https://medium.com/ain311-fall-2022-projects/week-5-this-is-the-way-64b452385baa
+
+https://medium.com/ain311-fall-2022-projects/week-6-this-is-the-way-9177011a5beb
+
 
 Folders and usage:
 
